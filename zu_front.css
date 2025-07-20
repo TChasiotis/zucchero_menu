@@ -43,11 +43,11 @@ body{
 }
 
 nav {
-    background-image: url('images/background/GridArt_20250522_195346089_white.jpg');
+    /*background-image: url('images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: fixed;*/
 
     background-color: #e7e7e7;
     padding: 10px;
