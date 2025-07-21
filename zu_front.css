@@ -5,11 +5,11 @@ body{
     padding: 0;
     color: #ECF0F1;
 
-    background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
+    /*background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cοntain;
-    /*background-repeat: no-repeat;*/
+    background-repeat: no-repeat;
     background-position: center;
-    background-attachment: scroll;  
+    background-attachment: scroll;*/  
 }
 
 .logo {
