@@ -5,7 +5,7 @@ body{
     padding: 0;
     color: #ECF0F1;
 
-    background-image: url('images/background/GridArt_20250522_195346089_white.jpg');
+    background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -92,7 +92,7 @@ nav a:hover {
 
 .container {
 
-    background-image: url('images/background/GridArt_20250522_195346089_white.jpg');
+    background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
