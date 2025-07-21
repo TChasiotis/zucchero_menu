@@ -7,7 +7,7 @@ body{
 
     background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     background-position: center;
     background-attachment: scroll;  
 }
@@ -94,7 +94,6 @@ nav a:hover {
 
     background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
     background-attachment: scroll;
 
