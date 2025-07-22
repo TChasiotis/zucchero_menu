@@ -387,8 +387,6 @@ p {
     .price-table, .extra-table {
         font-size: 14px;
         width: 100%;
-        overflow-x: auto;
-        display: block;
     }
 
     .price-table th,
