@@ -3,13 +3,7 @@ body{
     background-color: rgb(151, 220, 245);
     margin: 0;
     padding: 0;
-    color: #ECF0F1;
-
-    /*background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
-    background-size: cοntain;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: scroll;*/  
+    color: #ECF0F1; 
 }
 
 .logo {
@@ -44,12 +38,6 @@ body{
 }
 
 nav {
-    /*background-image: url('images/background/GridArt_20250522_195346089_white.jpg');
-    background-size: cοntain;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: scroll;*/
-
     background-color: #e7e7e7;
     padding: 10px;
     text-align: center;
@@ -93,11 +81,9 @@ nav a:hover {
 .container {
 
     background-image: url('/zucchero_menu/images/background/GridArt_20250522_195346089_white.jpg');
-    /*background-repeat: no-repeat;*/
     background-size: contain;
     background-position: center;
     background-attachment: scroll;
-
     max-width: 100%;
     box-sizing: border-box;
     margin: 50px auto;
