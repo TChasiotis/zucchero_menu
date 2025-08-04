@@ -105,6 +105,10 @@ nav a:hover {
     border-radius: 2cm;
 }
 
+.container img.no-style {
+  all: unset;
+}
+
 h1 {
     text-align: center;
     color: black;
